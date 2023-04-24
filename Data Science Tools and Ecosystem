@@ -1,0 +1,83 @@
+Data Science Tools and Ecosystem
+
+## Introduction
+In this notebook, Data Science Tools and Systems are summarized.
+
+## Popular Languages Used in Data Science
+
+Some of the populr languages that Data Scientists use are:
+    
+    1. Python
+    2. R
+    3. SQL
+    
+    Python is one of the most popular programming languages for data science due to its ease of use, versatility, adn wide range of libraries and tools available. It's often used for tasks like data cleaning, machine learning, and data visualization. 
+    
+    R is another popular language for data science, particularly in academia and research. It has a strong statistical focus and is commonly used for tasks like data analysis, visualization, and modeling. 
+    
+    SQL, or Structured Query Language, is a language used to manage and manipulate data stored in relational databases. It's an important language for data scientists to know, as many organizations store their data in databases and use SQL to access and analyze it. 
+    
+    Other popular languages for data science include Java, Scala, and MATLAB, among others. The choice of language often depends on the specific needs of the project, as well as the preferences and expertise of the data scientist. 
+    
+    Some of the commonly used libraries used by Data scientists include:
+        1. NumPy: Alibrary for numerical computing in Python that provides efficient and fast array processing and manipulation capabilities. Is is used for tasks such as linear algebra, statistical analysis, and numerical simulations.
+        2. Pandas: A library for data manipulation and analysis in Python that provides powerful data structures for working with tructured data. It is used for tasks such as cleaning, transforming, and filtering data.
+        3. Matplotlib: A library for creating visualizations in Python that provides a range of plotting functions and tools for creating charts, histograms, and other types of plots. It is used for tasks such as data exploration, data visualization, and presentation of results.
+        4. Scikit-learn: A library for machine learning in Pythin that provides a range of algorithms for classification, regression, clustering, and dimensionality reduction. It is used ofr takss such as model selection, hyperparameter tuning, and evaluation of model performance. 
+        5. TensorFlow: A library for deep learning in Python that provides a range of tools for building and training neural networks. It is used for tasks such as image recognition, natural language processing, and other types of machine learning applications.
+        
+        | Data Science Tools |
+        | --- |
+        | R Studio |
+        | Jupiter Notebook | 
+        | Spyder |
+        
+### Below are a few examples of evaluating arithmetic expressions in Python. 
+        
+        To perform arithmetic expressions in Python, you can use the following operators.
+        
+        - Addition: +
+        - Subtraction: -
+        - Multiplication: *
+        - Division: /
+        - Modulus (remainder): %
+        - Exponentiation: **
+        
+        Here are a few examples of arithmetic expressions in Python.
+        '''python
+        x = 10
+        y = 3
+        
+        # Addition 
+        print (x + y) # Output: 13
+        
+        # Substraction
+        print(x - y) # Output: 7
+        
+        # Multiplication
+        print(x * y) # Output: 30
+        
+        # Division (returns float)
+        print(x / y) # Output: 3.3333333333333335
+        
+        #Modulus (returns remainder)
+        print(x % y) # Output: 1
+        
+        # Exponentiation
+        print(x ** y) # Output: 1000
+        
+# This is a simple arithmetic expression to multiply then add integers.
+(3 * 4) + 5
+
+# This will convert 200 minutes to hours by diving by 60
+200/60
+
+**Objectives:**
+
+- List popular languages for Data Science
+- Understand basic data types and structures
+- Perform data manipulation using Python libraries
+- Visualize data using Python libraries
+
+## Author
+Cristal
